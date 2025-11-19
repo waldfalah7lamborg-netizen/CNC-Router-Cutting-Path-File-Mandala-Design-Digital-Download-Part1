@@ -10,4 +10,5 @@ STL – 3D model file
 
 Perfect for:
 Decorative wall panels, furniture inlays, laser or CNC art projects, and architectural ornamentation.
-ref2.png
+  <img src="ref2.png" width="300">
+
